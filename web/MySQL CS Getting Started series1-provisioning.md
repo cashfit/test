@@ -1,11 +1,12 @@
-# mysql
-关于Oracle MySQL 云服务的介绍，参见本公众号其他文章《》。
+# Oracle MySQL云服务入门系列1：创建MySQL实例
+关于Oracle MySQL 云服务的介绍，参见官方网站介绍：[Oracle MySQL 云服务](https://cloud.oracle.com/zh_CN/mysql)。
+
 《Oracle MySQL云服务入门系列》包含以下内容：
 
 1. 创建MySQL实例
 
 
-1. 访问MySQL实例2018年7月2日
+1. 访问MySQL实例
 
 
 1. MySQL实例生命周期管理
@@ -23,6 +24,7 @@
 **通过浏览器登录Oracle云主页**
 
 在浏览器地址栏输入Oracle云主页地址：[https://cloud.oracle.com](https://cloud.oracle.com)
+
 点击“Sign In”，
 
 ![**<图片1>**](https://github.com/cloud-is-coming/test/blob/master/web/provisioning/1.jpg )
@@ -87,13 +89,11 @@ Agent User： 监控代理用户名和口令
 ![**<图片11>**](https://github.com/cloud-is-coming/test/blob/master/web/provisioning/11.jpg )
 
 
-创建成功，整个创建过程只用了短短的8分钟。
-
-**《图片12》**
+创建成功，整个创建过程只用了短短的10分钟。
 
 点击刚刚创建好的实例名称，进入实例的详细信息界面：
 
-**《图片13》**
+![**<图片12>**](https://github.com/cloud-is-coming/test/blob/master/web/provisioning/12.jpg )
 
 
 
