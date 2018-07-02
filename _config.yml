@@ -12,7 +12,7 @@ url: http://www.panxw.com
 domain: www.panxw.com
 
 all_categories: [
-  ["MySQLCS Get started series", "MySQLCS Get started series 1-provisioning,"/web/MySQL CS Getting Started series1-provisioning.md"], 
+  ["web", "MySQLCS Get started series 1-provisioning,"/web/MySQL CS Getting Started series1-provisioning.md"], 
   ["react", "React Native", "/react/index.html"],
   ["web", "Web建站","/web/index.html"], 
 
